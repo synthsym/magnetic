@@ -1,0 +1,18 @@
+{
+  "name": "magnetic",
+  "version": "0.0.0",
+  "description": "Framework for creating web apps using React and the Flux app architechture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synthsym/magnetic.git"
+  },
+  "author": "Adam Jacobus <snoopyk921@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/synthsym/magnetic/issues"
+  }
+}
